@@ -2,10 +2,10 @@
 
 <html>
    <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, Initial-scale=1">
       <base target="_top">
    </head>
    <body>
-      <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;border: 0;" src="https://script.google.com/macros/s/AKfycbw_bwi3GlWPfbPIMNwY6CJ6tCHWpQ2gP62fYNiD6PzaoVEjbMCs4rBSwVsOkCyFl_9_/exec"></iframe>
+      <iframe allow="geolocation *" style="position: Absolute;top: 0;left: 0;width: 100%;height: 100%;border: 0;" src="https://script.google.com/macros/s/AKfycbwVEddDKbS7t1sbBEmIgaTYTcjRxCLajHj6au_DC9n5l8T-c-6MK2zV5sY2Ftq_512bFw/exec"></iframe>
    </body>
 </html>
